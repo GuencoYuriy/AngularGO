@@ -1,0 +1,59 @@
+{
+  "ver": 1,
+  "name":"navigation",
+  "css":{
+    "background-color":"#333"
+  },
+  "list": [
+    {
+      "id":1,
+      "label":"home",
+      "href":"#/home"
+    },
+    {
+      "id":2,
+      "label":"messages",
+      "href":"#/messages"
+    },
+    {
+      "id":3,
+      "label":"connections",
+      "href":"#/connections"
+    },
+    {
+      "id":4,
+      "label":"opportunities",
+      "href":"#/opportunities"
+    },
+    {
+      "id":5,
+      "label":"projects",
+      "href":"#/projects"
+    },
+    {
+      "id":6,
+      "label":"alliances",
+      "href":"#/alliances"
+    },
+    {
+      "id":7,
+      "label":"settings",
+      "href":"#/settings"
+    },
+    {
+      "id":8,
+      "label":"how it works",
+      "href":"#/how-it-works"
+    },
+    {
+      "id":9,
+      "label":"terms of use",
+      "href":"#/terms-of-use"
+    },
+    {
+      "id":10,
+      "label":"contact us",
+      "href":"#/contact-us"
+    }
+  ]
+}
